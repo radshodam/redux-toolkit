@@ -1,0 +1,17 @@
+/* Css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ==========
+Custom css files 
+========== */
+
+/* Fonts */
+@import url("fonts/Exo.css");
+
+
+
+body {
+  font-family: "Exo";
+}
