@@ -1,10 +1,10 @@
 import React from "react";
-import { Counter } from "./components/Counter/Counter";
+import ContainerTodoList from "./components/todoList/ContainerTodoList";
 
 function App() {
   return (
     <>
-      <Counter />
+      <ContainerTodoList/>
     </>
   );
 }
